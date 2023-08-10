@@ -1,2 +1,1 @@
-from openaiConfig.openaiSettigns.openaiApi import getOpenaiChat
-from openaiConfig.openaiSettigns.openaiApi import getOpenaiEmbedding
+from openaiConfig.openaiSettigns.openaiApi import getOpenaiEmbeddingAndChat

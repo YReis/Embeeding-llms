@@ -1,0 +1,1 @@
+Please set up you .env with your openai key
