@@ -7,8 +7,8 @@ client = getMongoConection()
 
 # connect to items database
 db = client["items"]
-jewelItems = db["jewelItems"]
-document = jewelItems.find_one()
+itemstouse = db["itemstouse"]
+document = itemstouse.find_one()
 
 # Loop would be here for multiple documents
 # Access the 'description' field
